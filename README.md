@@ -23,11 +23,11 @@ Note: It only work's on Linux systems.
 
 The compiler supports following options:
 
-./nqcc --A file_name.c      Compile and display scanner, parser and code generator output
-./nqcc --L file_name.c      Compile and display scanner output
-./nqcc --P file_name.c      Compile and display parser output
-./nqcc --S file_name.c      Compile and display generator output
-./nqcc --help Prints this help
+./nqcc --A file_name.c      Compile and display scanner, parser and code generator output<br>
+./nqcc --L file_name.c      Compile and display scanner output<br>
+./nqcc --P file_name.c      Compile and display parser output<br>
+./nqcc --S file_name.c      Compile and display generator output<br>
+./nqcc --help Prints this help<br>
 
 ## Examples
 Check th examples folder to test our Compiler
